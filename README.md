@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Colin, a junior Electrical Engineer at the University of British Columbia, Vancouver. 
+I'm Colin, an Electrical Engineer junior at the University of British Columbia, Vancouver. 
 
 [![Colin Pereira's Github States](https://github-readme-stats.vercel.app/api?username=colinpereira&show_icons=true&theme=dracula)](https://github.com/colinpereira/github-readme-stats)
 
