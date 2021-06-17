@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**colinpereira/colinpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Colin, a junior Electrical Engineer at the University of British Columbia, Vancouver. 
 
-Here are some ideas to get you started:
+[![Colin Pereira's Github States](https://github-readme-stats.vercel.app/api?username=colinpereira&show_icons=true&theme=dracula)](https://github.com/colinpereira/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here are some of my skills** <br />
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<br/>
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<br/>
+![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+**You can read more about me on my [website](https://www.pereiracolin.com) or on [LinkedIn](https://www.linkedin.com/in/colinpereira/).**
