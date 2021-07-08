@@ -11,7 +11,9 @@ I'm Colin, an Electrical Engineer junior at the University of British Columbia, 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br/>
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<br/>
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br/>
 ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
