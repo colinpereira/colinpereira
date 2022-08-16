@@ -24,6 +24,9 @@ I'm Colin, an Electrical Engineer junior at the University of British Columbia, 
 ![](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 <br/>
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
-![](https://img.shields.io/badge/Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
+![](https://img.shields.io/badge/RubyonRails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
+![](https://img.shields.io/badge/JQuery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
+![](https://img.shields.io/badge/RSpec-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0584ed)
 
 **You can read more about me on my [website](https://www.pereiracolin.com) or on [LinkedIn](https://www.linkedin.com/in/colinpereira/).**
